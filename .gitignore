@@ -1,0 +1,21 @@
+# Python bytecode (compiled files)
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environments (The heavy stuff)
+.venv/
+venv/
+env/
+ENV/
+
+# PyCharm / IDE Settings
+.idea/
+.vscode/
+
+# Operating System stuff
+.DS_Store
+Thumbs.db
+
+# Large Data files (Optional: only if your CSV is massive)
+# *.csv
