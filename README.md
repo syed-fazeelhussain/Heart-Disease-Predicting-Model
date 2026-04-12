@@ -1,4 +1,6 @@
 # Heart-Disease-Predicting-Model
+Click Here to Launch the Live Predictor App --> https://heart-disease-predicting-model-shddxlu7yxuqye8dtven3d.streamlit.app/
+
 The objective of this model was to predict likelihood of heart disease merely using simple factors like age, alcohol consumption, cigarettes smoked and weight. I started off by getting a dataset from kaggle of around 1000 patients. Around 400 of them had null values, therefore all the rows were omitted. The numbers of 1 and 0 in heart disease column were changes to yes and no respectively.
 The independent variable was Heart Disease while the independent varibales were age, alcohol consumption, cigarettes smoked and weight
 Boxplots were then plotted to identify any outliers; many outliers were found but since they represented important part of the data and other inputs seemed credible enough, none of the outliers were removed.
